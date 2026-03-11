@@ -1,6 +1,6 @@
 # Tharlesson Platform
 
-Este espaco centraliza os projetos de plataforma, SRE, DevOps e GitOps que construimos juntos.
+Este espaco centraliza os projetos de plataforma, SRE, DevOps e GitOps que contrui.
 
 ## Projetos
 
