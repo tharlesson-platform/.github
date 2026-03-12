@@ -6,6 +6,7 @@ Este espaco centraliza os projetos de plataforma, SRE, DevOps e GitOps que contr
 
 | Pasta local | Projeto | Resumo | Repositorio |
 | --- | --- | --- | --- |
+| `Plano de Estudos SRE` | Plano de estudos para SRE | Documentação e links. | [tharlesson/sre]([https://github.com/tharlesson/argocd](https://github.com/tharlesson-platform/plano_estudos_sre)) |
 | `ArgoCD-gitops` | Plataforma GitOps para AWS EKS | Argo CD + Argo Rollouts + Terraform + promocao `dev -> stage -> prod`. | [tharlesson/argocd](https://github.com/tharlesson/argocd) |
 | `Atlantis` | Stack Atlantis + GitHub + AWS | Execucao centralizada de IaC com Atlantis em ECS Fargate. | [tharlesson/atlantis](https://github.com/tharlesson/atlantis) |
 | `Jenkins` | Monorepo da Plataforma Jenkins | Controller + agents + JCasC + seed jobs versionados. | [tharlesson/jenkins](https://github.com/tharlesson/jenkins) |
